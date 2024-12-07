@@ -12,19 +12,64 @@ Kod yazımında SOLID prensiplerini ve DRY (Don’t Repeat Yourself) ilkesini s�
 
 Proje sürecinde öğrendiğim ve deneyimlediğim her bir teknoloji ve tasarım deseni, uygulamanın hem güçlü hem de kullanıcı dostu bir yapıya sahip olmasını sağladı. Bu proje, yazılım geliştirme becerilerimi ileri taşıyan önemli bir deneyim oldu ve kullanıcı ihtiyaçlarını karşılayan güvenilir bir ürün ortaya koymamı sağladı.
 
+### Teknolojiler, Yaklaşımlar ve Teknikler;
 
-```
-Spring Boot + Spring Data JPA + Spring MVC + Spring Security + Thymeleaf + SpEL
-Postgresql + MySQL
-Lombok + ModelMapper + Validation
-Dev Tools + IntelliJ IDEA + Maven
-N-Tier Architechture
-HTML, CSS, JS, JQuery, Bootstrap
-SOLID, DRY
-ORM, IoC, DI
-Strategy Desing Pattern, Repository Desing Pattern
-teknolojileri, tasarım şablonları ve teknikleri kullanılmıştır.
-```
+- **Spring Framework Teknolojileri**  
+  - Spring Boot  
+  - Spring Data JPA  
+  - Spring MVC  
+  - Spring Security  
+  - Thymeleaf  
+  - SpEL  
+
+- **Veritabanları**  
+  - PostgreSQL  
+  - MySQL  
+
+- **Java Kütüphaneleri**  
+  - Lombok  
+  - ModelMapper  
+  - Validation  
+
+- **Araçlar ve Platformlar**  
+  - Dev Tools  
+  - IntelliJ IDEA  
+  - Maven  
+
+- **Mimari Yaklaşım**  
+  - N-Tier Architecture  
+
+- **Frontend Teknolojileri**  
+  - HTML  
+  - CSS  
+  - JavaScript  
+  - JQuery  
+  - Bootstrap  
+
+- **Yazılım Geliştirme İlkeleri**  
+  - SOLID  
+  - DRY  
+
+- **Tasarım Kalıpları ve Yaklaşımlar**  
+  - ORM  
+  - IoC  
+  - DI  
+  - Strategy Design Pattern  
+  - Repository Design Pattern  
 
 ### Görseller:
 
+![1](https://github.com/user-attachments/assets/4fcfb1b8-407c-422c-993d-5d04ee255244)
+![2](https://github.com/user-attachments/assets/7b154941-cdea-43e1-b2ab-9690560dbd8b)
+![3](https://github.com/user-attachments/assets/5d17d23a-1e02-48e4-a823-a6767420017f)
+![4](https://github.com/user-attachments/assets/df8fe0a0-fff2-41ab-a87c-3c7886b1e18f)
+![5](https://github.com/user-attachments/assets/ac621cc6-7d37-4941-9a4f-82c947dc93b8)
+![6](https://github.com/user-attachments/assets/1f2ec936-15e0-4ae0-be1f-963da80350de)
+![7](https://github.com/user-attachments/assets/00072ad7-c866-4146-816d-f48077535190)
+![8](https://github.com/user-attachments/assets/2d3dc817-f5d8-4856-b35b-c50c0035ce1e)
+![9](https://github.com/user-attachments/assets/3634bbc7-7ab9-406a-b0f0-d648f6455dcf)
+![10](https://github.com/user-attachments/assets/85aff1f3-f23c-4da5-9725-ff27771f0b2c)
+![11](https://github.com/user-attachments/assets/a9fc6b75-1026-459f-84ad-062bde652d5d)
+![12](https://github.com/user-attachments/assets/f2d7acc8-6114-4a5a-9ca9-8b0bf9ee6ddd)
+![13](https://github.com/user-attachments/assets/aba77bf3-5909-4af2-86f4-69d03aa84a23)
+![14](https://github.com/user-attachments/assets/1f5104b7-0a29-4219-bf21-a3cd34098d8c)
